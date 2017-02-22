@@ -1,0 +1,46 @@
+h1{
+  padding: 20px;
+}
+
+p{
+  font-size: 12px;
+}
+
+h3{
+  text-align: center;
+  font-size: 21px;
+  font-family: "hurme-semibold","Helvetica Neue","Helvetica",Arial,Segoe UI Symbol,sans-serif;
+}
+.ui.borderless.topmenu.menu{
+  font-size: 11px;
+  color: lightgray;
+  box-shadow: 1px;
+  border: none;
+}
+
+.ui.borderless.middle.menu{
+  font-family: "hurme-regular","Helvetica Neue","Helvetica",Arial,Segoe UI Symbol,sans-serif;
+  font-size: 12px;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.text{
+  font-family: "hurme-regular","Helvetica Neue","Helvetica",Arial,Segoe UI Symbol,sans-serif;
+  color: #BBB8B8;
+  font-style: italic;
+  border: none;
+  padding: 20px;
+}
+
+.ui.borderless.bottom.menu{
+  border: none;
+  box-shadow: none;
+}
+
+.footer-background{
+  background-color: #575757;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: white;
+}
